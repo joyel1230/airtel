@@ -178,6 +178,7 @@ ul {
     border-radius: 15px;
     margin-top: 13px;
     border: 1px solid red;
+    z-index: 1;
   }
   .dropdown-content a {
     padding: 12px;
